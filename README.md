@@ -22,17 +22,17 @@ PureAqua gestiona contratos de mantenimiento recurrentes con clientes residencia
 - Enlace directo a Google Maps para la dirección de cada cliente
 - Búsqueda completa de clientes en todos los registros
 
-## Pila tecnológica
+## Recursos
 
 - **Frontend:** HTML puro, CSS, JavaScript — sin marcos de trabajo, sin pasos de compilación
 - **Backend:** Supabase (PostgreSQL + Realtime)
-- **Alojamiento:** Netlify
+- **Hosting:** Netlify
 - **Iconos:** Tabler Icons
 
-## Capturas de pantalla
- 
-Abre `oficina.html` o `tecnico.html` en un navegador para ver la demostración en vivo con datos de ejemplo.
- 
+## Archivos
+
+Abre `oficina.html` o `tecnico.html` en un navegador para ver la demostración en vivo con datos de ejemplo. Recuerda que los archivos están modificados para aquellos que quieran probarlo (No es igual al proyecto original hecha para la empresa).
+
 ---
- 
+
 *Esta es una demostración de portafolio. Todos los datos de clientes que se muestran son ficticios.*
